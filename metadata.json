@@ -1,0 +1,7 @@
+{
+  "name": "Educación Financiera y Ahorro",
+  "description": "Una plataforma integral para aprender sobre finanzas personales, planificar el ahorro para vivienda y mejorar el perfil crediticio, asistido por inteligencia artificial.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
